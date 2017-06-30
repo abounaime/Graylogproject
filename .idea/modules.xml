@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-value-javabean/auto-value-javabean.iml" filepath="$PROJECT_DIR$/auto-value-javabean/auto-value-javabean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graylog-parent.iml" filepath="$PROJECT_DIR$/graylog-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graylog-plugin-archetype/graylog-plugin-archetype.iml" filepath="$PROJECT_DIR$/graylog-plugin-archetype/graylog-plugin-archetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graylog-plugin-parent/graylog-plugin-parent.iml" filepath="$PROJECT_DIR$/graylog-plugin-parent/graylog-plugin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graylog-plugin-parent/graylog-plugin-web-parent/graylog-plugin-web-parent.iml" filepath="$PROJECT_DIR$/graylog-plugin-parent/graylog-plugin-web-parent/graylog-plugin-web-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graylog-project-parent/graylog-project-parent.iml" filepath="$PROJECT_DIR$/graylog-project-parent/graylog-project-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graylog2-server/graylog2-server.iml" filepath="$PROJECT_DIR$/graylog2-server/graylog2-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/integration-tests.iml" />
+    </modules>
+  </component>
+</project>

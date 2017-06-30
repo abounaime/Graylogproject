@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.graylog2.repackaged:grok:0.1.6-graylog">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graylog2/repackaged/grok/0.1.6-graylog/grok-0.1.6-graylog.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graylog2/repackaged/grok/0.1.6-graylog/grok-0.1.6-graylog-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/graylog2/repackaged/grok/0.1.6-graylog/grok-0.1.6-graylog-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

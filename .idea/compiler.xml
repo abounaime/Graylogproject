@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/graylog-plugin-archetype/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Annotation profile for Graylog Parent POM" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="com.google.auto.value.processor.AutoValueProcessor" />
+        <module name="auto-value-javabean" />
+        <module name="graylog-plugin-archetype" />
+        <module name="graylog2-server" />
+        <module name="integration-tests" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auto-value-javabean" target="1.8" />
+      <module name="graylog-parent" target="1.8" />
+      <module name="graylog-plugin-archetype" target="1.8" />
+      <module name="graylog-plugin-parent" target="1.8" />
+      <module name="graylog-plugin-web-parent" target="1.8" />
+      <module name="graylog-project-parent" target="1.8" />
+      <module name="graylog2-server" target="1.8" />
+      <module name="integration-tests" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
